@@ -1,3 +1,8 @@
+/* ------------------------------------------------------------------ */
+/* This program will list the longest snake sequences of the integers */
+/* in a square matrix provided by the user.                           */
+/* ------------------------------------------------------------------ */
+
 #include <stdio.h>
 
 // Maximum row & column size of input matrix
