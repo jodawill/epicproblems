@@ -1,3 +1,8 @@
+/* ------------------------------------------------------------------ */
+/* This program will list all of the integers within an interval that */
+/* are palindromes in both decimal and octal.                         */
+/* ------------------------------------------------------------------ */
+
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
